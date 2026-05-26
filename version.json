@@ -1,0 +1,9 @@
+{
+    "version": "2.75",
+    "url": "https://space.bilibili.com/20568856/dynamic",
+    "notes": {
+        "v2.74": "（！！！！重要！！！！）KeySteam v2.74 及以下的版本将不再受到支持与维护，请大家及时更新到 KeySteam v2.7 5版本；",
+        "v2.75": "① 完善 “新内核” 热重载功能：增加、修改、删除都已成功支持热重载；② 在 “游戏管理” 右键菜单中新增 “gbe破解” 的功能，旨在脱离Steam启动游戏以解决一些游戏的内部校验问题；③ 优化了 “54修复”，不再联网获取可执行文件名称，使其完全本地化；④ 美化了 “重启Steam” 按钮下二级菜单的样式；⑤ 在 “新内核” 下增加了Steam版本兼容性检测功能，能自动识别当前Steam版本是否适配 “新内核”；⑥ 大大缩小了软件的体积；⑦ 更换软件图标为蒙眼版。"
+    },
+    "manifest_sig": "S8bRij7xuLeS6VR9Qe9Y3nxerFMdwdyUEA4mZNwr3lv2EPtLulyIf1P5LoBCUEDi1qlZ8Q0u5QikZc+njw50Ag=="
+}
